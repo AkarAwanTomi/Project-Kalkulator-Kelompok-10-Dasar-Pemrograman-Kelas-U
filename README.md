@@ -1,0 +1,2 @@
+# Project-Kalkulator-Kelompok-10-Dasar-Pemrograman-Kelas-U
+Kalkulator ini berisi fungsi menghitung nilai resistor, arus, tegangan dalam hukum ohm. Selain itu, adapun kegunaan kalkulator ini untuk menghitung daya listrik, total resistor (seri dan paralel), dan konversi desimal ke; biner, oktal, dan heksadesimal (bisa sebaliknya). Anggota kelompok : Akar Adamanta Motik, Keefe Wiryawan S., M. Tommy Lutfan.
